@@ -1,3 +1,6 @@
+tautan publik : [Tautan Public](https://install.appcenter.ms/orgs/shopping-list3/apps/shopping-list/distribution_groups/public)
+build status badge : [![Build status](https://build.appcenter.ms/v0.1/apps/8bf4c707-06df-45c6-85a0-4b5d016d46f9/branches/main/badge)](https://appcenter.ms)
+
 # shopping_list
 
 A new Flutter project.
